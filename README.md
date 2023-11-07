@@ -31,7 +31,7 @@ The Contact Management System offers the following features:
 
 ![image](https://github.com/paritosh22/Contact-Management-System/assets/122518099/656ecc44-fe2d-4129-b9eb-b7864d1a8993)
 
-![image](https://github.com/paritosh22/Contact-Management-System/assets/122518099/b8bd9b02-f9ab-4fab-8da2-7c36952e6197)
+![image](https://github.com/paritosh22/Contact-Management-System/assets/122518099/c6e7df1a-16b3-4012-8daa-01b7c38696c3)
 
 ![Contact management System](https://github.com/paritosh22/Contact-Management-System/assets/122518099/019fbacd-9628-4c0b-831b-296eb7b83ec0)
 
