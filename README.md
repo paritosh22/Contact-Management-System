@@ -29,5 +29,9 @@ The Contact Management System offers the following features:
 
 5. **Update a Contact**: Users can update the details of an existing contact. They need to specify the phone number of the contact they want to edit.
 
+![image](https://github.com/paritosh22/Contact-Management-System/assets/122518099/656ecc44-fe2d-4129-b9eb-b7864d1a8993)
 
 ![image](https://github.com/paritosh22/Contact-Management-System/assets/122518099/b8bd9b02-f9ab-4fab-8da2-7c36952e6197)
+
+![Contact management System](https://github.com/paritosh22/Contact-Management-System/assets/122518099/019fbacd-9628-4c0b-831b-296eb7b83ec0)
+
