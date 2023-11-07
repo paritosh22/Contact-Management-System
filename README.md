@@ -32,8 +32,6 @@ The Contact Management System offers the following features:
 
 ## Advantages
 
-Certainly, here are expanded descriptions for each of the six key points about Contact Management Systems (CMS):
-
 1. **Centralized Contact Storage:** Contact Management Systems act as a centralized hub for storing all your contact information, eliminating the need to scatter contact details across various platforms or devices. This centralization ensures that your entire contact list is readily available and organized in a single location, making it convenient and efficient to manage your contacts.
 
 2. **Efficient Communication:** These systems enhance communication efficiency by providing rapid access to contact details. When you need to connect with someone, you can easily retrieve their contact information, be it their phone number, email address, or other relevant data. This streamlining of communication simplifies the process of reaching out to the right individuals, whether they are personal or professional contacts.
